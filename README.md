@@ -5,6 +5,6 @@
 </p>
 
 <p align="center">
-<sup>1</sup>Center for Gravitational Physics, The University of Texas at Austin, Austin, Texas 78712, USA  
+<sup>1</sup>Center for Gravitational Physics, The University of Texas at Austin, Austin, Texas 78712, USA  <br>
 <sup>2</sup>Center for Computational Relativity and Gravitation, Rochester Institute of Technology, Rochester, New York 14623, USA
 </p>
